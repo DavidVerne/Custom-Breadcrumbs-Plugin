@@ -27,3 +27,7 @@ To call the breadcrumbs onto your page, simply use the following code:
 A copy of the license is included in the root of the plugin’s directory. The file is named `LICENSE`.
 
 ## Important Notes
+
+
+
+
